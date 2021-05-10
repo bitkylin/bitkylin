@@ -9,6 +9,15 @@
 [![Repos Badge](https://badges.pufler.dev/repos/bitkylin)](https://github.com/bitkylin)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/bitkylin)](https://github.com/bitkylin)
 
+<!-- from https://github.com/anuraghazra/github-readme-stats -->
+
+<a href="https://github.com/bitkylin">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api?username=bitkylin&show_icons=true?count_private=true" />
+</a>
+<a href="https://github.com/bitkylin">
+  <img align="center" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bitkylin&layout=compact" />
+</a>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <br>&emsp;const bitkylin = {
