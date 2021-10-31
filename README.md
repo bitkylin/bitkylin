@@ -21,9 +21,9 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 <br>&emsp;const bitkylin = {
-<br>&emsp;&emsp;&emsp;📝code: [Java, Python, JavaScript, C#],
+<br>&emsp;&emsp;&emsp;📝code: [Java, Python, JavaScript, Android, C#],
 <br>&emsp;&emsp;&emsp;🔨tools: [Docker, Spring-Boot, Spring-Cloud],
-<br>&emsp;&emsp;&emsp;🌇architecture: ["microservices", "event-driven", "design system pattern"],
+<br>&emsp;&emsp;&emsp;🌇architecture: ["microservices", "design-system-pattern"],
 <br>&emsp;&emsp;&emsp;💕idol: [[kimmking](https://github.com/kimmking), [mercyblitz](https://github.com/mercyblitz), [xiaoyu](https://github.com/yu199195), [stormzhang](https://github.com/stormzhang)],
 <br>&emsp;&emsp;&emsp;💯learning: [[Spring](https://github.com/spring-projects), [ShardingSphere](https://github.com/apache/shardingsphere), [Soul](https://github.com/dromara/soul), [Hmily](https://github.com/dromara/hmily), [tech-weekly](https://github.com/mercyblitz/tech-weekly)],
 <br>&emsp;&emsp;&emsp;🎥movie: [「[基于百度地图 SDK 的多人地图 Android 客户端](https://www.bilibili.com/video/BV1T5411N7FH/)」, 「[数据采集及云端监控系统](https://www.bilibili.com/video/BV1Ay4y1b7aw/)」]
