@@ -1,6 +1,6 @@
 <h2> Hi, I'm bitkylin! 😄</h2>
 
-<p><em>Software Enginner at Shanghai 🇨🇳<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Software Enginner at Shanghai China <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![GitHub bitkylin](https://img.shields.io/github/followers/bitkylin?style=social)](https://github.com/bitkylin)
