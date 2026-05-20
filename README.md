@@ -9,12 +9,12 @@
 [![Repos Badge](https://badges.pufler.dev/repos/bitkylin)](https://github.com/bitkylin)
 
 <a href="https://github.com/bitkylin">
-  <img align="center" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bitkylin&theme=github" />
+  <img align="center" height="170px" src="./profile-summary-card-output/github/0-profile-details.svg" />
 </a>
 <br/>
 <a href="https://github.com/bitkylin">
-  <img align="center" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bitkylin&theme=github" />
+  <img align="center" height="170px" src="./profile-summary-card-output/github/1-stats.svg" />
 </a>
 <a href="https://github.com/bitkylin">
-  <img align="center" height="170px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bitkylin&theme=github" />
+  <img align="center" height="170px" src="./profile-summary-card-output/github/2-most-commit-language.svg" />
 </a>
