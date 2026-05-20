@@ -13,7 +13,7 @@
 </a>
 <br/>
 <a href="https://github.com/bitkylin">
-  <img align="center" height="170px" src="./profile-summary-card-output/github/1-stats.svg" />
+  <img align="center" height="170px" src="./profile-summary-card-output/github/3-stats.svg" />
 </a>
 <a href="https://github.com/bitkylin">
   <img align="center" height="170px" src="./profile-summary-card-output/github/2-most-commit-language.svg" />
